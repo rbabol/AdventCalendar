@@ -10,10 +10,20 @@ namespace AdventCalendar.Day_1
     {
         public static void PuzzleOne()
         {
+            string output = "";
+            string[] file = File.ReadAllLines("..\\Input.txt");
+
+            Console.WriteLine("Puzzle One: " + output);
+
         }
 
         public static void PuzzleTwo()
         {
+            string output = "";
+            string[] file = File.ReadAllLines("..\\Input.txt");
+
+            Console.WriteLine("Puzzle Two: " + output);
+
         }
     }
 }

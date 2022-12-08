@@ -11,19 +11,17 @@ namespace AdventCalendar.Day_1
         public static void PuzzleOne()
         {
             string output = "";
-            string[] file = File.ReadAllLines("..\\Input.txt");
+            string[] file = File.ReadAllLines("C:\\Users\\rbabol\\source\\repos\\AdventCalendar\\AdventCalendar\\Day 7\\Input.txt");
 
             Console.WriteLine("Puzzle One: " + output);
-
         }
 
         public static void PuzzleTwo()
         {
             string output = "";
-            string[] file = File.ReadAllLines("..\\Input.txt");
+            string[] file = File.ReadAllLines("C:\\Users\\rbabol\\source\\repos\\AdventCalendar\\AdventCalendar\\Day 7\\Input.txt");
 
             Console.WriteLine("Puzzle Two: " + output);
-
         }
     }
 }

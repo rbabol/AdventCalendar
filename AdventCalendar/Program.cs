@@ -2,8 +2,8 @@
 
 using AdventCalendar.Day_1;
 
-DayNine.PuzzleOne();
+DayTen.PuzzleOne();
 
-DayNine.PuzzleTwo();
+DayTen.PuzzleTwo();
 
 Console.ReadLine();
